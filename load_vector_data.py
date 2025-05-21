@@ -5,6 +5,7 @@ import mysql.connector as mysqld
 import argparse, time
 import logging, traceback
 
+
 __title__ = 'load_vector_data'
 __version__ = '1.0.0-DEV'
 __author__ = 'khkwon01'

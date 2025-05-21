@@ -1,0 +1,7 @@
+mysql:
+    host: 10.0.1.216
+    port: 3306
+    username: admin
+    password: Welcome#1
+    timeout: 10
+

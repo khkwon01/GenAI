@@ -1,0 +1,5 @@
+MDS 2cpu에도 read replica를 사용할 수 있나요?|online 문서상 불가합니다. https://docs.oracle.com/en-us/iaas/mysql-database/doc/supported-shapes.html
+Heatwave 8.4 버전에서 mysql_native_password를 활성화하는 방법은 무엇입니까?|HeatWave 8.4는 기본적으로 mysql_native_password를 지원하지 않습니다. mysql_native_password가 8.0.34에서 더 이상 사용되지 않도록 설정되었기 때문입니다.
+Heatwave MySQL read only 설정이 가능한가요?|Console Heatwave GUI에서 read only로 변경 가능합니다.
+Heatwave HA 제약 사항이 있나요?|HA를 구성하려면 모든 테이블에 Primary key(PK)가 존재해야 합니다.
+Heatwave 테이블 Primary key 구성 방법은?|성능에 걱정이 있는 경우 invisible pk를 생성하면 되고, 생성하는 방법은 alter table 또는 mysql shell를 사용하여 데이터 export나 load시 create_invisible_pks 옵션을 사용하거나, variables에 sql_generate_invisible_primary_key를 사용하시면 됩니다.

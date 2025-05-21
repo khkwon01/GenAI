@@ -1,0 +1,220 @@
+2025-05-20 08:13:16 INFO     started askme
+2025-05-20 08:14:03 INFO     started askme
+2025-05-20 08:35:59 INFO     started askme
+2025-05-20 08:36:07 INFO     started askme
+2025-05-20 08:36:07 ERROR    MySQL connection error
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 33, in run_mysql_queries
+    if not conn.is_connected(): raise mysql.connector.Error('MySQL connection error')
+mysql.connector.errors.Error: MySQL connection error
+2025-05-20 08:37:02 INFO     started askme
+2025-05-20 08:37:10 INFO     started askme
+2025-05-20 08:37:10 ERROR    MySQL connection error
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 33, in run_mysql_queries
+    if not conn.is_connected(): raise mysql.connector.Error('MySQL connection error')
+mysql.connector.errors.Error: MySQL connection error
+2025-05-20 08:37:22 INFO     started askme
+2025-05-20 08:37:22 ERROR    MySQL connection error
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 33, in run_mysql_queries
+    if not conn.is_connected(): raise mysql.connector.Error('MySQL connection error')
+mysql.connector.errors.Error: MySQL connection error
+2025-05-20 08:39:00 INFO     started askme
+2025-05-20 08:39:59 INFO     started askme
+2025-05-20 08:40:06 INFO     started askme
+2025-05-20 08:40:06 ERROR    MySQL connection error
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 33, in run_mysql_queries
+    if not conn.is_connected(): raise mysql.connector.Error('MySQL connection error')
+mysql.connector.errors.Error: MySQL connection error
+2025-05-20 09:21:35 INFO     started askme
+2025-05-20 09:21:38 INFO     started askme
+2025-05-20 09:21:38 ERROR    MySQL connection error
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 33, in run_mysql_queries
+    if not conn.is_connected(): raise mysql.connector.Error('MySQL connection error')
+mysql.connector.errors.Error: MySQL connection error
+2025-05-20 09:21:45 INFO     started askme
+2025-05-20 09:21:45 ERROR    MySQL connection error
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 33, in run_mysql_queries
+    if not conn.is_connected(): raise mysql.connector.Error('MySQL connection error')
+mysql.connector.errors.Error: MySQL connection error
+2025-05-20 09:23:18 INFO     started askme
+2025-05-20 09:23:25 INFO     started askme
+2025-05-20 09:23:25 ERROR    MySQL connection error
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 33, in run_mysql_queries
+    if not conn.is_connected(): raise mysql.connector.Error('MySQL connection error')
+mysql.connector.errors.Error: MySQL connection error
+2025-05-20 09:25:33 INFO     started askme
+2025-05-20 09:25:42 INFO     started askme
+2025-05-20 09:25:42 ERROR    MySQL connection error
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 33, in run_mysql_queries
+    if not conn.is_connected(): raise mysql.connector.Error('MySQL connection error')
+mysql.connector.errors.Error: MySQL connection error
+2025-05-20 09:30:56 INFO     started askme
+2025-05-20 09:31:04 INFO     started askme
+2025-05-20 09:31:04 ERROR    MySQL connection error
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 33, in run_mysql_queries
+    if not conn.is_connected(): raise mysql.connector.Error('MySQL connection error')
+mysql.connector.errors.Error: MySQL connection error
+2025-05-20 09:32:11 INFO     started askme
+2025-05-20 09:32:16 INFO     started askme
+2025-05-20 09:32:16 ERROR    MySQL connection error
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 33, in run_mysql_queries
+    if not conn.is_connected(): raise mysql.connector.Error('MySQL connection error')
+mysql.connector.errors.Error: MySQL connection error
+2025-05-20 09:33:21 INFO     started askme
+2025-05-20 09:33:28 INFO     started askme
+2025-05-20 09:33:28 ERROR    MySQL connection error
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 33, in run_mysql_queries
+    if not conn.is_connected(): raise mysql.connector.Error('MySQL connection error')
+mysql.connector.errors.Error: MySQL connection error
+2025-05-20 09:35:42 INFO     started askme
+2025-05-20 09:35:45 INFO     started askme
+2025-05-20 09:35:45 ERROR    MySQL connection error
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 33, in run_mysql_queries
+    if not conn.is_connected(): raise mysql.connector.Error('MySQL connection error')
+mysql.connector.errors.Error: MySQL connection error
+2025-05-20 09:37:59 INFO     started askme
+2025-05-20 09:38:02 INFO     started askme
+2025-05-20 09:38:02 ERROR    MySQL connection error
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 33, in run_mysql_queries
+    if not conn.is_connected(): raise mysql.connector.Error('MySQL connection error')
+mysql.connector.errors.Error: MySQL connection error
+2025-05-20 09:38:52 INFO     started askme
+2025-05-20 09:38:54 INFO     started askme
+2025-05-20 09:38:54 ERROR    MySQL connection error
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 33, in run_mysql_queries
+    if not conn.is_connected(): raise mysql.connector.Error('MySQL connection error')
+mysql.connector.errors.Error: MySQL connection error
+2025-05-20 09:40:02 INFO     started askme
+2025-05-20 09:40:06 INFO     started askme
+2025-05-20 09:40:29 INFO     started askme
+2025-05-20 09:40:33 INFO     started askme
+2025-05-20 09:40:59 INFO     started askme
+2025-05-20 09:41:01 INFO     started askme
+2025-05-20 09:42:29 INFO     started askme
+2025-05-20 09:42:32 INFO     started askme
+2025-05-20 09:44:32 INFO     started askme
+2025-05-20 09:44:44 INFO     started askme
+2025-05-20 09:55:58 INFO     started askme
+2025-05-20 09:56:09 INFO     started askme
+2025-05-20 09:57:00 INFO     started askme
+2025-05-20 09:57:07 INFO     started askme
+2025-05-20 09:57:08 ERROR    object of type 'int' has no len()
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 38, in run_mysql_queries
+    if len(row) > 0:
+TypeError: object of type 'int' has no len()
+2025-05-20 09:59:10 INFO     started askme
+2025-05-20 09:59:16 INFO     started askme
+2025-05-20 09:59:17 ERROR    object of type 'int' has no len()
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 39, in run_mysql_queries
+    if len(row) > 0:
+TypeError: object of type 'int' has no len()
+2025-05-20 10:07:02 INFO     started askme
+2025-05-20 10:07:13 INFO     started askme
+2025-05-20 10:07:14 ERROR    object of type 'int' has no len()
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 39, in run_mysql_queries
+    if len(row) > 0:
+TypeError: object of type 'int' has no len()
+2025-05-20 10:13:23 INFO     started askme
+2025-05-20 10:13:29 INFO     started askme
+2025-05-20 10:13:30 ERROR    object of type 'int' has no len()
+Traceback (most recent call last):
+  File "/root/dev/genai/src/utils/mysqllib.py", line 39, in run_mysql_queries
+    if len(row) > 0:
+TypeError: object of type 'int' has no len()
+2025-05-20 10:15:39 INFO     started askme
+2025-05-20 10:15:47 INFO     started askme
+2025-05-20 10:16:50 INFO     started askme
+2025-05-20 10:16:54 INFO     started askme
+2025-05-20 10:17:33 INFO     started askme
+2025-05-20 10:17:37 INFO     started askme
+2025-05-20 10:18:42 INFO     started askme
+2025-05-20 10:20:46 INFO     started askme
+2025-05-20 10:20:51 INFO     started askme
+2025-05-20 10:21:30 INFO     started askme
+2025-05-20 10:22:07 INFO     started askme
+2025-05-20 10:22:33 INFO     started askme
+2025-05-20 10:22:46 INFO     started askme
+2025-05-20 10:24:02 INFO     started askme
+2025-05-20 10:25:49 INFO     started askme
+2025-05-20 10:26:40 INFO     started askme
+2025-05-20 10:27:15 INFO     started askme
+2025-05-20 10:34:41 INFO     started askme
+2025-05-20 10:34:44 INFO     started askme
+2025-05-20 10:38:49 INFO     started askme
+2025-05-20 10:38:52 INFO     started askme
+2025-05-20 10:39:53 INFO     started askme
+2025-05-20 10:40:08 INFO     started askme
+2025-05-20 12:50:54 INFO     started askme
+2025-05-20 12:51:34 INFO     started askme
+2025-05-20 12:57:06 INFO     started askme
+2025-05-20 12:57:16 WARNING  Can't connect to the backend MySQL instance (0): 2003: Can't connect to MySQL server on '10.0.1.216:3306' (timed out)
+2025-05-20 12:57:26 WARNING  Can't connect to the backend MySQL instance (1): 2003: Can't connect to MySQL server on '10.0.1.216:3306' (timed out)
+2025-05-20 12:57:36 WARNING  Can't connect to the backend MySQL instance (2): 2003: Can't connect to MySQL server on '10.0.1.216:3306' (timed out)
+2025-05-20 12:57:36 WARNING  Can't connect to the backend MySQL instance
+2025-05-21 05:31:43 INFO     started askme
+2025-05-21 05:32:07 INFO     started askme
+2025-05-21 05:33:06 INFO     started askme
+2025-05-21 05:38:28 INFO     started askme
+2025-05-21 05:38:41 INFO     started askme
+2025-05-21 05:40:16 INFO     started askme
+2025-05-21 05:40:30 INFO     started askme
+2025-05-21 05:42:18 INFO     started askme
+2025-05-21 05:42:31 INFO     started askme
+2025-05-21 06:14:14 INFO     started askme
+2025-05-21 06:14:35 INFO     started askme
+2025-05-21 06:20:20 INFO     started askme
+2025-05-21 06:20:34 INFO     started askme
+2025-05-21 06:22:01 INFO     started askme
+2025-05-21 06:22:07 INFO     started askme
+2025-05-21 06:23:30 INFO     started askme
+2025-05-21 06:23:36 INFO     started askme
+2025-05-21 06:25:59 INFO     started askme
+2025-05-21 06:26:05 INFO     started askme
+2025-05-21 06:26:45 INFO     started askme
+2025-05-21 06:26:50 INFO     started askme
+2025-05-21 06:33:46 INFO     started askme
+2025-05-21 06:33:51 INFO     started askme
+2025-05-21 06:36:59 INFO     started askme
+2025-05-21 06:37:39 INFO     started askme
+2025-05-21 06:38:08 INFO     started askme
+2025-05-21 06:38:47 INFO     started askme
+2025-05-21 06:39:04 INFO     started askme
+2025-05-21 06:51:57 INFO     started askme
+2025-05-21 07:12:40 INFO     started askme
+2025-05-21 07:25:05 INFO     started askme
+2025-05-21 07:26:11 INFO     started askme
+2025-05-21 07:26:36 INFO     started askme
+2025-05-21 07:31:45 INFO     started askme
+2025-05-21 07:35:27 INFO     started askme
+2025-05-21 07:35:51 INFO     started askme
+2025-05-21 07:36:12 INFO     started askme
+2025-05-21 07:37:18 INFO     started askme
+2025-05-21 07:37:22 INFO     started askme
+2025-05-21 07:37:34 INFO     started askme
+2025-05-21 07:42:52 INFO     started askme
+2025-05-21 07:44:12 INFO     started askme
+2025-05-21 07:44:29 INFO     started askme
+2025-05-21 08:29:27 INFO     started askme
+2025-05-21 08:29:42 INFO     started askme
+2025-05-21 08:41:57 INFO     started askme
+2025-05-21 08:49:24 INFO     started askme
+2025-05-21 09:20:19 INFO     started askme
+2025-05-21 09:20:28 INFO     started askme
+2025-05-21 09:20:42 INFO     started askme
+2025-05-21 10:15:47 INFO     started askme

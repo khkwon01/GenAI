@@ -10,6 +10,7 @@ def main():
   html = """
   <div style="background-color:blue:padding:10px;">
   <h1 stype="color:yellow">테스트 페이지</h1>
+  </div>
   """
 
   st.markdown(html, unsafe_allow_html=True)

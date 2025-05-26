@@ -8,5 +8,5 @@ def main():
   st.text("테스트 페이지입니다.")
 
 
-if __name__ == "__main__':
+if __name__ == "__main__":
   main()

@@ -15,7 +15,7 @@ def main():
   st.markdown(html, unsafe_allow_html=True)
   st.write("테스트 페이지...")
 
-  st.sidebar.image("", width=300)
+  st.sidebar.image("assets/hw.png", width=300)
 
 if __name__ == "__main__":
   main()

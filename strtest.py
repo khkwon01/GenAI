@@ -38,7 +38,7 @@ def main():
     crate = st.slider("Contrast", 0.5, 5.0)
     enhan = ImageEnhance.Contrast(img)
     newimg = enhan.enhance(crate)
-    st.image(newimg, width=600, use_column_width=True)
+    st.image(newimg, width=600, use_container_width=True)
 
   if st.sidebar.button("생성자"):
     st.sidebar.subheader("페이지 생성")

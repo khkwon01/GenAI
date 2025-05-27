@@ -19,6 +19,11 @@ def main():
   st.sidebar.image("assets/hw.png", width=300)
   img = st.sidebar.file_uploader("파일 올려주세요. (jpg, png or jpeg)", type=["jpg", "png", "jpeg"])
 
+  if img is not None:
+    img = Image.open(img)
+
+    if st.sidebar.button("이미지 미리보기"):
+        st.sidebar.image(img, width=300)
 
 if __name__ == "__main__":
   main()

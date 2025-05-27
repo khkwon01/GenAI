@@ -25,5 +25,21 @@ def main():
     if st.sidebar.button("이미지 미리보기"):
         st.sidebar.image(img, width=300)
 
+  menulist = ["Guide", "Q&A", "etc"]
+  choice = st.sidebar.selectbox("매뉴 선택", menulist)
+
+  if choice == "Guide":
+    st.subheader("Guide for migration")
+  elif choice == "Q&A":
+    st.subheader("Q&A")
+  elif choice == "etc":
+    st.subheader("기타")
+
+  if st.sidebar.botton("생성자"):
+    st.sidebar.subheader("페이지 생성")
+    st.sidebar.markdown("by Author's kkh")
+    st.sidebar.markdown("[khkwon01@gmail.com](mailto:khkwon01@gmail.com)")
+    st.sidebar.text("All Rights (2025)")
+
 if __name__ == "__main__":
   main()

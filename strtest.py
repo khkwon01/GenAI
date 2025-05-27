@@ -17,7 +17,7 @@ def main():
   st.write("테스트 페이지...")
 
   st.sidebar.image("assets/hw.png", width=300)
-  img = st.sidebar.file_uploader("파일을 올려 주세요 (jpg, png, jpeg)", type=['jpg,'png','jpeg'])
+  img = st.sidebar.file_uploader("파일을 올려 주세요 (jpg, png, jpeg)", type=['jpg,'png'])
 
 
 if __name__ == "__main__":

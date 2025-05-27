@@ -35,7 +35,7 @@ def main():
   elif choice == "etc":
     st.subheader("기타")
 
-  if st.sidebar.botton("생성자"):
+  if st.sidebar.button("생성자"):
     st.sidebar.subheader("페이지 생성")
     st.sidebar.markdown("by Author's kkh")
     st.sidebar.markdown("[khkwon01@gmail.com](mailto:khkwon01@gmail.com)")

@@ -35,7 +35,7 @@ def main():
     st.subheader("Q&A")
   elif choice == "etc":
     st.subheader("기타")
-    crate = st.slidr("Contrast", 0.5, 5.0)
+    crate = st.slider("Contrast", 0.5, 5.0)
     enhan = ImageEnhance.Contrast(img)
     newimg = enhan.enhance(crate)
     st.image(newimg, width=600, use_column_width=True)

@@ -24,3 +24,7 @@ streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/
 ```
 
 
+
+![image](https://github.com/user-attachments/assets/09dcf1f2-a655-45b3-8ab3-d7f7996974a5)
+
+

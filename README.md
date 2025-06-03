@@ -1,4 +1,22 @@
-# GenAI
-유사검색
+##1. 가상 환경 생성
+''' 
+python -m venv genai
+source genai/bin/activate
+'''
 
-![image](https://github.com/user-attachments/assets/2d5991eb-19a2-4b51-bcb0-31fa25c4796b)
+##2. Streamlit 설치
+''' 
+pip install streamlit
+'''
+
+##3. application 수행
+'''
+streamlit genai
+python -m streamlit genai
+
+streamlit run app.py
+python -m streamlit run app.py
+streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/master/streamlit app.py
+'''
+
+

@@ -7,7 +7,11 @@ def main():
     page_title = "Askme Web app",
     page_icon = "assets/hw.png",
     layout = "wide",
-    initial_sidebar_state = "expanded"
+    initial_sidebar_state = "expanded",
+    menu_items = {
+      "Get Help" : "https://streamlit.io",
+      "About": "About..."
+    }
   )
   st.title("Askme Web app")
 

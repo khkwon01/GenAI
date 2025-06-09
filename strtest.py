@@ -3,6 +3,12 @@ from PIL import Image, ImageEnhance
 
 def main():
   """ test... """
+  st.set_page_config(
+    page_title = "Askme Web app",
+    page_icon = "assets/hw.png",
+    layout = "wide",
+    initial_sidebar_state = "expanded"
+  )
   st.title("Askme Web app")
 
   # st.text("테스트 페이지입니다.")
